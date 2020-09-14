@@ -6,11 +6,10 @@ end
 
 using_include(array, "wow")
 
-
+array = ["wow", "I", "am", "really", "learning", "arrays!"]
 
 def using_sort(array)
-  
-
+  array.first
 end
 
 def using_reverse(array)
