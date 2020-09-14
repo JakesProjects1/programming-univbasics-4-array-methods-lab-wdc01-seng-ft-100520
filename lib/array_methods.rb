@@ -1,8 +1,3 @@
-using
-
-
-end
-
 using_include(array, element)
 
 end
